@@ -1,16 +1,36 @@
-## Hi there 👋
+# 👋 Hi, I'm Patrick Hernandez!
 
-<!--
-**patrickh48/patrickh48** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Recent graduate** aspiring to become a professional **Software Developer**  
+💡 I love building things that help people, from game servers to productivity tools.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+
+- **Languages:** Python, C#, Java, SQL
+- **Cloud:** AWS
+- **Version Control:** Git
+
+---
+
+## 🚀 Projects I'm Proud Of
+
+- [**Database Project**](https://github.com/patrickh48/database-project): A deep dive into database systems and applications  
+- [**InstrumonGame**](https://github.com/patrickh48/InstrumonGame): A fun, interactive game project blending creativity and code
+
+---
+
+## 🌍 Let's Connect
+
+- [![LinkedIn](https://img.shields.io/badge/-Patrick%20Hernandez-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/patrick-hernandez-543734215/)
+
+---
+
+## 🕹️ Fun Facts
+
+- I love to create **public servers for games**—bringing communities together through interactive play
+- Passionate about developing **software to make everyday life easier**
+
+---
+
+*Check out my work and feel free to reach out! I’m always open to collaboration, ideas, or just a chat about tech or gaming.*
